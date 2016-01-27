@@ -12,7 +12,7 @@
 3.`touch .gitignore`    
 4.`git init`  
 5.`git add .`  
-6.`git commit -m "Initial commit"`
+6.`git commit -m "Initial commit"`  
 7.`git remote add origin youruser@yourserver.com:/path/to/my_project.git`  
 8.`git push --set-upstream origin master`
 
