@@ -1,5 +1,4 @@
 # Gkb.1
----
 ## Git
 ### ? How to push existing Project to remote --bare repo
 ~~~On server:  
