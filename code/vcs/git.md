@@ -1,7 +1,7 @@
 # Gkb.1
 ## Git
 ### ? How to push existing Project to remote --bare repo
-
+This example is pretty bland.
 **On server:**  
 1.`mkdir my_project.git`  
 2.`cd my_project.git`  
@@ -18,3 +18,10 @@
 
 ### ? How do you do this on various IDEs...
 **Android Studio:**
+**On server:**  
+1.`mkdir my_project.git`  
+2.`cd my_project.git`  
+3.`git --bare init`
+**On client:**  
+1. New Project ([Android Doc][http://developer.android.com/training/basics/firstapp/creating-project.html])
+2. VCS > Git >
